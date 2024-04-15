@@ -5,6 +5,11 @@
 Записывать **без пробелов**. Использовать **Заглавные** пропозициональные буквы
 Пример ввода: `(C+B=A)+(C+!B=!A)`
 
+## Для установки
+1. Переходим сюда:
+<img width="960" alt="image" src="https://github.com/a1ndreay/LogicCalc/assets/104272612/3b76d4e5-f920-441e-9fea-4e5778e380f8">
+
+
 ## Пример работы программы
 ![image](https://github.com/a1ndreay/LogicCalc/assets/104272612/85d0bc95-10b6-4c60-b585-94c536489b57)
 
