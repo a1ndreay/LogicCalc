@@ -8,6 +8,10 @@
 ## Для установки
 1. Переходим сюда:
 <img width="960" alt="image" src="https://github.com/a1ndreay/LogicCalc/assets/104272612/3b76d4e5-f920-441e-9fea-4e5778e380f8">
+2. Внизу страницы находим исходники, пробуем скачать, один из них должен запустится
+<img width="911" alt="image" src="https://github.com/a1ndreay/LogicCalc/assets/104272612/ef58dfd6-6d9f-4995-a8c0-2705e772b99e">
+3. Если возникли проблемы пишем мне в телеграмм @a1ndreay
+
 
 
 ## Пример работы программы
